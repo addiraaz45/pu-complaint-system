@@ -38,7 +38,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const mockUsers = [
     {
       id: "s1",
-      name: "Aditya Student",
+      name: "Student",
       email: "student@pu.edu",
       password: "student123",
       role: "student" as UserRole,
